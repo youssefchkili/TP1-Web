@@ -1,0 +1,7 @@
+#tasks{
+    position: absolute;
+    top: 20px;
+    left: 0; /* Ensures it stays at the far left */
+    width: 400px; /* Adjust width as needed */
+    padding: 10px;
+}
